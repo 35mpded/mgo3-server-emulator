@@ -1,0 +1,2 @@
+from settings import STATIC_KEY_FILE_PATH
+print(STATIC_KEY_FILE_PATH)
